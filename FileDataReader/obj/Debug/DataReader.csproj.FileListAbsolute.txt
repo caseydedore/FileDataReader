@@ -1,0 +1,4 @@
+D:\z_Unity Projects\DialogEngine\DialogEngine\DialogEngine\bin\Debug\DataReader.dll
+D:\z_Unity Projects\DialogEngine\DialogEngine\DialogEngine\bin\Debug\DataReader.pdb
+D:\z_Unity Projects\DialogEngine\DialogEngine\DialogEngine\obj\Debug\DataReader.dll
+D:\z_Unity Projects\DialogEngine\DialogEngine\DialogEngine\obj\Debug\DataReader.pdb

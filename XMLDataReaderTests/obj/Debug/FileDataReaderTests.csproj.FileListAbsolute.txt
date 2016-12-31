@@ -1,0 +1,16 @@
+D:\z_Unity Projects\DialogEngine\DialogEngine\XMLDataReaderTests\bin\Debug\XMLDataReaderTests.dll
+D:\z_Unity Projects\DialogEngine\DialogEngine\XMLDataReaderTests\bin\Debug\XMLDataReaderTests.pdb
+D:\z_Unity Projects\DialogEngine\DialogEngine\XMLDataReaderTests\bin\Debug\FileDataReader.dll
+D:\z_Unity Projects\DialogEngine\DialogEngine\XMLDataReaderTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\z_Unity Projects\DialogEngine\DialogEngine\XMLDataReaderTests\bin\Debug\FileDataReader.pdb
+D:\z_Unity Projects\DialogEngine\DialogEngine\XMLDataReaderTests\obj\Debug\FileDataReaderTests.csprojResolveAssemblyReference.cache
+D:\z_Unity Projects\DialogEngine\DialogEngine\XMLDataReaderTests\obj\Debug\XMLDataReaderTests.dll
+D:\z_Unity Projects\DialogEngine\DialogEngine\XMLDataReaderTests\obj\Debug\XMLDataReaderTests.pdb
+D:\z_Unity Projects\FileDataReader\XMLDataReaderTests\bin\Debug\XMLDataReaderTests.dll
+D:\z_Unity Projects\FileDataReader\XMLDataReaderTests\bin\Debug\XMLDataReaderTests.pdb
+D:\z_Unity Projects\FileDataReader\XMLDataReaderTests\bin\Debug\FileDataReader.dll
+D:\z_Unity Projects\FileDataReader\XMLDataReaderTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\z_Unity Projects\FileDataReader\XMLDataReaderTests\bin\Debug\FileDataReader.pdb
+D:\z_Unity Projects\FileDataReader\XMLDataReaderTests\obj\Debug\FileDataReaderTests.csprojResolveAssemblyReference.cache
+D:\z_Unity Projects\FileDataReader\XMLDataReaderTests\obj\Debug\XMLDataReaderTests.dll
+D:\z_Unity Projects\FileDataReader\XMLDataReaderTests\obj\Debug\XMLDataReaderTests.pdb

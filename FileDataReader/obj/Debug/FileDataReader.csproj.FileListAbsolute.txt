@@ -1,0 +1,9 @@
+D:\z_Unity Projects\DialogEngine\DialogEngine\DialogEngine\bin\Debug\FileDataReader.dll
+D:\z_Unity Projects\DialogEngine\DialogEngine\DialogEngine\bin\Debug\FileDataReader.pdb
+D:\z_Unity Projects\DialogEngine\DialogEngine\DialogEngine\obj\Debug\FileDataReader.dll
+D:\z_Unity Projects\DialogEngine\DialogEngine\DialogEngine\obj\Debug\FileDataReader.pdb
+D:\z_Unity Projects\FileDataReader\FileDataReader\bin\Debug\FileDataReader.dll
+D:\z_Unity Projects\FileDataReader\FileDataReader\bin\Debug\FileDataReader.pdb
+D:\z_Unity Projects\FileDataReader\FileDataReader\obj\Debug\FileDataReader.csprojResolveAssemblyReference.cache
+D:\z_Unity Projects\FileDataReader\FileDataReader\obj\Debug\FileDataReader.dll
+D:\z_Unity Projects\FileDataReader\FileDataReader\obj\Debug\FileDataReader.pdb

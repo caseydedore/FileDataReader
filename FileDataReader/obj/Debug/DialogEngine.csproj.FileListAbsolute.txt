@@ -1,0 +1,4 @@
+D:\z_Unity Projects\DialogEngine\DialogEngine\DialogEngine\bin\Debug\DialogEngine.dll
+D:\z_Unity Projects\DialogEngine\DialogEngine\DialogEngine\bin\Debug\DialogEngine.pdb
+D:\z_Unity Projects\DialogEngine\DialogEngine\DialogEngine\obj\Debug\DialogEngine.dll
+D:\z_Unity Projects\DialogEngine\DialogEngine\DialogEngine\obj\Debug\DialogEngine.pdb
